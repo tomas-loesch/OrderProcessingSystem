@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/OrderApi/OrderApi.csproj" />
+    <Project Path="src/OrderWorker/OrderWorker.csproj" />
+    <Project Path="src/SharedContracts/SharedContracts.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OrderProcessing.Tests/OrderProcessing.Tests.csproj" />
+  </Folder>
+</Solution>
