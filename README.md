@@ -1,4 +1,5 @@
 ﻿# Order Processing System — Event-Driven Architecture (.NET 10 & RabbitMQ)
+ ![.NET CI](https://github.com/tomas-loesch/OrderProcessingSystem/actions/workflows/ci.yml/badge.svg)
 
 Sistema distribuído para processamento assíncrono de pedidos utilizando **C# (.NET 10)**, **MassTransit**, **RabbitMQ** e **Docker**.
 
